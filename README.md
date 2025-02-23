@@ -5,3 +5,5 @@
 para ejecutar el programa debe poner:
 
 ´´´nmp install react´´´
+
+sistema de registro 2
